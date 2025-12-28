@@ -1,5 +1,5 @@
 # 💫 The Developer's Desk:
-🔹 About Me<br><br>👩‍💻 Computer Science Undergraduate (2026) with strong foundations in Java, DSA, SQL, and MERN Stack.<br>I enjoy building scalable full-stack applications and automation systems that solve real-world problems.<br><br>🔭 I’m currently working on<br><br>CrickLock – a full-stack Cricket Management System using React, Node.js, Express, MongoDB<br><br>Improving backend architecture, JWT authentication, and REST API design<br><br>Consistently solving DSA problems to strengthen problem-solving skills<br><br>👯 I’m looking to collaborate on<br><br>MERN stack projects<br><br>Backend-heavy applications<br><br>Beginner-friendly open-source projects<br><br>Automation workflows and productivity tools<br><br>🤝 I’m looking for help with<br><br>Writing clean, production-ready backend code<br><br>Improving system design fundamentals<br><br>Open-source contribution best practices<br><br>🌱 I’m currently learning<br><br>Advanced Node.js & Express<br><br>MongoDB optimization<br><br>Authentication & authorization<br><br>Basics of AI agents & automation (n8n)<br><br>💬 Ask me about<br><br>Java & OOPs<br><br>DSA preparation strategies<br><br>MERN project structure<br><br>Building REST APIs from scratch<br><br>⚡ Fun fact<br><br>I love turning complex backend logic into simple, usable features and enjoy learning by building real projects 🚀
+🔹 About Me<br><br>👩‍💻 Computer Science Undergraduate (2026) with strong foundations in Java, DSA, SQL, and MERN Stack.<br>I enjoy building scalable full-stack applications and automation systems that solve real-world problems.<br><br>🔭 I’m currently working on<br><br>CrickLock – a full-stack Cricket Management System using React, Node.js, Express, MongoDB<br><br>Improving backend architecture, JWT authentication, and REST API design<br><br>Consistently solving DSA problems to strengthen problem-solving skills<br><br>👯 I’m looking to collaborate on<br><br>MERN stack projects<br><br>Backend-heavy applications<br><br>Beginner-friendly open-source projects<br><br>Automation workflows and productivity tools<br><br>🤝 I’m looking for help with<br><br>Writing clean, production-ready backend code<br><br>Improving system design fundamentals<br><br>Open-source contribution best practices<br><br>🌱 I’m currently learning<br><br>Advanced Node.js & Express<br><br>MongoDB optimization<br><br>Authentication & authorization<br><br>Basics of AI agents & automation (n8n)<br><br>
 
 
 ## 🌐 Socials:
@@ -12,8 +12,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=varsha-badda&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=varsha-badda&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=varsha-badda&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=varsha-badda&icon=0&color=0)](https://visitcount.itsvg.in)
