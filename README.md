@@ -1,51 +1,20 @@
-# 💫 The Developer's Desk
+# 💫 The Developer's Desk:
+🔹 About Me<br><br>👩‍💻 Computer Science Undergraduate (2026) with strong foundations in Java, DSA, SQL, and MERN Stack.<br>I enjoy building scalable full-stack applications and automation systems that solve real-world problems.<br><br>🔭 I’m currently working on<br><br>CrickLock – a full-stack Cricket Management System using React, Node.js, Express, MongoDB<br><br>Improving backend architecture, JWT authentication, and REST API design<br><br>Consistently solving DSA problems to strengthen problem-solving skills<br><br>👯 I’m looking to collaborate on<br><br>MERN stack projects<br><br>Backend-heavy applications<br><br>Beginner-friendly open-source projects<br><br>Automation workflows and productivity tools<br><br>🤝 I’m looking for help with<br><br>Writing clean, production-ready backend code<br><br>Improving system design fundamentals<br><br>Open-source contribution best practices<br><br>🌱 I’m currently learning<br><br>Advanced Node.js & Express<br><br>MongoDB optimization<br><br>Authentication & authorization<br><br>Basics of AI agents & automation (n8n)<br><br>💬 Ask me about<br><br>Java & OOPs<br><br>DSA preparation strategies<br><br>MERN project structure<br><br>Building REST APIs from scratch<br><br>⚡ Fun fact<br><br>I love turning complex backend logic into simple, usable features and enjoy learning by building real projects 🚀
 
-👩‍💻 Computer Science Undergraduate (2026) with strong foundations in **Java, DSA, SQL, and MERN Stack**.  
-I enjoy building **scalable full-stack applications** and **automation systems** that solve real-world problems.
 
-### 🔭 I’m currently working on
-- **CrickLock** – Full-stack Cricket Management System (React, Node.js, Express, MongoDB)
-- Improving backend architecture, JWT authentication, and REST API design
-- Consistently solving DSA problems
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/badda-varsha) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/varsha badda) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:varshabadda0@gmail.com) 
 
-### 🌱 I’m currently learning
-- Advanced Node.js & Express
-- MongoDB optimization
-- Authentication & Authorization
-- AI agents & automation (n8n)
-
----
-
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/badda-varsha)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:varshabadda0@gmail.com)
-
----
-
-## 💻 Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-![Varsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=varsha-badda&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=varsha-badda&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varsha-badda&layout=compact&theme=dark)
-
----
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=varsha-badda&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=varsha-badda&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=varsha-badda&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=varsha-badda&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=varsha-badda&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=varsha-badda&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Profile Views](https://visitcount.itsvg.in/api?id=varsha-badda&icon=0&color=0)
